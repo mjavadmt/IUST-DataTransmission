@@ -2,7 +2,7 @@ clc;
 close all;
 
 % STEP 2
-filePath = "D:\Full HD Desktop Wallpapers\amusement.jpg";
+filePath = "first.jpg";
 img = imread(filePath);
 figure;
 imshow(img)
