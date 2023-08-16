@@ -11,5 +11,5 @@ This project was implemented in Matlab. The purpose of this project was to add n
 ![noised Image](NoiseRemover/noisyImage.jpg)
 
 ## Nyquist Sampling
-This project was also implemented in Matlab. The source file of this project was audio file in *wav* format and we must sample the file without losing the quality of audio. Based on Nyquist theorem we should sample the beyond 2 times max frequency.
+This project was also implemented in Matlab. The source file of this project was audio file in *wav* format and we must sample the file without losing the quality of audio. Based on Nyquist theorem we should sample the beyond 2 times max frequency. I also drew histogram plot to show voice signal distribution
 ![Nyquist](NyquistSampling/Nyquist.png)
